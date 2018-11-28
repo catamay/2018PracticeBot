@@ -24,6 +24,11 @@ hs_err_pid*
 #IntelliJ 
 .idea/
 *.iws
+*.ipl
+*.iml
 
 #Apple junk files
 .DS_Store
+
+#Gradle Builds
+.gradle
